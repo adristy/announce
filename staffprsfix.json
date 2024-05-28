@@ -1,666 +1,1097 @@
 [
     {
-        "NRP": 5003231058,
-        "Nama": "Ganindra Muhammad Izzulhaq Bayhaqi"
-    },
-    {
-        "NRP": 5003231087,
-        "Nama": "Shafa Insan Kamillia Ashari"
-    },
-    {
-        "NRP": 5003231182,
-        "Nama": "Tatia Widya Ningrum"
-    },
-    {
-        "NRP": 5003231115,
-        "Nama": "Fikri Ahmad Setyaji"
-    },
-    {
-        "NRP": 5003231193,
-        "Nama": "Danu Hadi Pratama"
-    },
-    {
-        "NRP": 5003231081,
-        "Nama": "Diffa Fadhila"
-    },
-    {
-        "NRP": 5003231012,
-        "Nama": "Andra Eka Wijayanti"
-    },
-    {
-        "NRP": 5003231085,
-        "Nama": "Prayoga Permana Hakim"
-    },
-    {
-        "NRP": 5003231084,
-        "Nama": "Eren Lutfimorea"
-    },
-    {
-        "NRP": 5052231022,
-        "Nama": "Dimas Wahyu Saputra"
-    },
-    {
-        "NRP": 5003231027,
-        "Nama": "Maria Immaculata Dyah Hita Widowati"
-    },
-    {
-        "NRP": 5003231079,
-        "Nama": "Ali Zainal Abidin"
-    },
-    {
-        "NRP": 5003231038,
-        "Nama": "Adelia Tria Amanda"
-    },
-    {
-        "NRP": 5003231048,
-        "Nama": "Maulida Rahmi"
-    },
-    {
-        "NRP": 5003231036,
-        "Nama": "Naqya Sakinah"
-    },
-    {
-        "NRP": 5003231159,
-        "Nama": "Muhammad Rafli Rismawan"
-    },
-    {
-        "NRP": 5003231062,
-        "Nama": "Ahmad Rizal Saputra"
-    },
-    {
-        "NRP": 5052231030,
-        "Nama": "Nisrina Giska Kamila"
-    },
-    {
-        "NRP": 5003231164,
-        "Nama": "Atika Mumtaza"
-    },
-    {
-        "NRP": 5003231037,
-        "Nama": "Najwa Laila Damayanti"
-    },
-    {
-        "NRP": 5003231171,
-        "Nama": "Diazty Ifta Padvani"
-    },
-    {
-        "NRP": 5003231055,
-        "Nama": "Najwa Fadhilah"
-    },
-    {
-        "NRP": 5003231020,
-        "Nama": "Natasha Virna Arthilita"
-    },
-    {
-        "NRP": 5003231155,
-        "Nama": "Anastasia Adelia Evangeline"
-    },
-    {
-        "NRP": 5003231150,
-        "Nama": "Muhammad Ilham Firmansyah"
-    },
-    {
-        "NRP": 5003231006,
-        "Nama": "Firda Amallia Trisnawati"
+        "NRP": 5003231001,
+        "Nama": "Muhammad Arham Dwi Nugroho",
+        "Accepted": true
     },
     {
         "NRP": 5003231003,
-        "Nama": "Danella Citra Aldarena"
-    },
-    {
-        "NRP": 5003231028,
-        "Nama": "Raisa Dinar Izzati"
-    },
-    {
-        "NRP": 5003231112,
-        "Nama": "Selvi Maulidyah"
-    },
-    {
-        "NRP": 5003231110,
-        "Nama": "Tabitha Madeline De Yong"
-    },
-    {
-        "NRP": 5003231077,
-        "Nama": "Abdurrahman Bayhaqi Choiri"
-    },
-    {
-        "NRP": 5003231001,
-        "Nama": "Muhammad Arham Dwi Nugroho"
-    },
-    {
-        "NRP": 5003231075,
-        "Nama": "Aditya Rasyiid Ariant"
-    },
-    {
-        "NRP": 5003231014,
-        "Nama": "Narendra Arshya Karnowo"
-    },
-    {
-        "NRP": 5003231053,
-        "Nama": "Fenantrenia Valeri Aliza"
-    },
-    {
-        "NRP": 5003231199,
-        "Nama": "Akhdan Surya Khairizza"
-    },
-    {
-        "NRP": 5003231095,
-        "Nama": "Putu Rendi Wira Darma"
-    },
-    {
-        "NRP": 5052231008,
-        "Nama": "Abdila Putra Samudra"
-    },
-    {
-        "NRP": 5003231205,
-        "Nama": "Auralya Putri Jasmine Wirawan"
-    },
-    {
-        "NRP": 5003231143,
-        "Nama": "Faiz Nabilianto"
-    },
-    {
-        "NRP": 5003231096,
-        "Nama": "Putu Calista Arthanti Dewi"
-    },
-    {
-        "NRP": 5052231016,
-        "Nama": "Quinn Maxine Lee"
-    },
-    {
-        "NRP": 5003231025,
-        "Nama": "Najwa Allena Eka Putri Santoso"
-    },
-    {
-        "NRP": 5003231090,
-        "Nama": "Ananda Aqeela Salsabila"
-    },
-    {
-        "NRP": 5003231103,
-        "Nama": "Tesalonika Sharavova Hutagaol"
-    },
-    {
-        "NRP": 5003231127,
-        "Nama": "RAFLI MAULANA"
-    },
-    {
-        "NRP": 5003231111,
-        "Nama": "Khoirun Nisa"
-    },
-    {
-        "NRP": 5003231019,
-        "Nama": "Widyana Nityasa Manda"
-    },
-    {
-        "NRP": 5003231191,
-        "Nama": "Zumrotus Solicha"
-    },
-    {
-        "NRP": 5003231170,
-        "Nama": "Rana Safira Sudjarwo"
-    },
-    {
-        "NRP": 5003231146,
-        "Nama": "Winna Aisyah Ramadhani Pambudi"
-    },
-    {
-        "NRP": 5003231009,
-        "Nama": "Aulia Rahmaeta Octaviani"
-    },
-    {
-        "NRP": 5003231202,
-        "Nama": "Najwa Azzura Kamila"
-    },
-    {
-        "NRP": 5003231189,
-        "Nama": "Muhammad Al Fatih Nafiudin Sya'bani"
-    },
-    {
-        "NRP": 5003231073,
-        "Nama": "Nathania Rani Pujiati"
-    },
-    {
-        "NRP": 5003231070,
-        "Nama": "Fathatia Cholida Syifa"
-    },
-    {
-        "NRP": 5003231104,
-        "Nama": "Ara Dina Mumtaza"
-    },
-    {
-        "NRP": 5003231091,
-        "Nama": "Rochmad Budi Sampurna"
-    },
-    {
-        "NRP": 5003231147,
-        "Nama": "Kayla Yasmine Hernanda Putri"
-    },
-    {
-        "NRP": 5003231021,
-        "Nama": "Violita Inggar Ariana"
-    },
-    {
-        "NRP": 5003231136,
-        "Nama": "Bethari Cetta Mulia"
-    },
-    {
-        "NRP": 5003231120,
-        "Nama": "Michael Tannelson"
-    },
-    {
-        "NRP": 5003231122,
-        "Nama": "Fahmadina Sophia"
-    },
-    {
-        "NRP": 5003231192,
-        "Nama": "Dhafa Azzahra"
-    },
-    {
-        "NRP": 5003231057,
-        "Nama": "Jeni Naomi"
-    },
-    {
-        "NRP": 5003231129,
-        "Nama": "Ruth Wahyu"
-    },
-    {
-        "NRP": 5003231097,
-        "Nama": "Fathi Akbar Firmansyah"
-    },
-    {
-        "NRP": 5003231042,
-        "Nama": "Asi Emilia Putri"
-    },
-    {
-        "NRP": 5052231039,
-        "Nama": "Zanna Quinsha"
-    },
-    {
-        "NRP": 5003231066,
-        "Nama": "Naifa Adila Balqis"
-    },
-    {
-        "NRP": 5052231006,
-        "Nama": "Keira Myeisharinna"
-    },
-    {
-        "NRP": 5003231186,
-        "Nama": "Khairunnisa Cahya Nagari"
-    },
-    {
-        "NRP": 5003231026,
-        "Nama": "Najwa Putri Lathifah"
-    },
-    {
-        "NRP": 5003231139,
-        "Nama": "Farahiyah Akmaliya Anjani"
-    },
-    {
-        "NRP": 5003231047,
-        "Nama": "Ike Maya Setya"
-    },
-    {
-        "NRP": 5003231088,
-        "Nama": "Oryza Sativa"
-    },
-    {
-        "NRP": 5003231061,
-        "Nama": "Irziqna Auliaurrachmah"
-    },
-    {
-        "NRP": 5003231017,
-        "Nama": "Ayu Nirwana Radika"
-    },
-    {
-        "NRP": 5003231035,
-        "Nama": "SETIYA ILMI MUBAROK"
-    },
-    {
-        "NRP": 5003231041,
-        "Nama": "Abellia Ayu Fernanda"
-    },
-    {
-        "NRP": 5003231133,
-        "Nama": "Bagas Rakhawisesa"
-    },
-    {
-        "NRP": 5003231114,
-        "Nama": "Jasmine Sabrina Rahmaira Saputra"
-    },
-    {
-        "NRP": 5003231107,
-        "Nama": "Adinda Putri Novianti"
-    },
-    {
-        "NRP": 5003231131,
-        "Nama": "Victoria Nicole Vanesa"
-    },
-    {
-        "NRP": 5003231032,
-        "Nama": "Jahidata Royyanida Mardani"
-    },
-    {
-        "NRP": 5003231078,
-        "Nama": "Suhanur Haliza"
-    },
-    {
-        "NRP": 5003231195,
-        "Nama": "Dandy Harsa Fathoni"
-    },
-    {
-        "NRP": 5003231034,
-        "Nama": "Nuris Candra Ramadhani"
-    },
-    {
-        "NRP": 5003231067,
-        "Nama": "Ilham Ramadhani Imanulloh"
-    },
-    {
-        "NRP": 5003231023,
-        "Nama": "Mazaya Aqila Adzraa"
-    },
-    {
-        "NRP": 5003231098,
-        "Nama": "Razaki Andyatama Ken Onodera"
-    },
-    {
-        "NRP": 5003231086,
-        "Nama": "Nurul Fadhila Yuni Setyawati"
-    },
-    {
-        "NRP": 5003231108,
-        "Nama": "Zalfa Adhelia"
-    },
-    {
-        "NRP": 5003231043,
-        "Nama": "Maitreya Zahwa"
-    },
-    {
-        "NRP": 5052231033,
-        "Nama": "Kasih Kristanti Novianto"
-    },
-    {
-        "NRP": 5003231134,
-        "Nama": "Nafisa Rahma Taufiq"
-    },
-    {
-        "NRP": 5003231211,
-        "Nama": "Muhamad Farchan Setyadi"
-    },
-    {
-        "NRP": 5003231148,
-        "Nama": "M. Kayyis Diya Ulhaq"
-    },
-    {
-        "NRP": 5003231188,
-        "Nama": "Rahmadania Tiara Jasmine"
-    },
-    {
-        "NRP": 5003231119,
-        "Nama": "M. Danu Haryoyudanto"
-    },
-    {
-        "NRP": 5052231009,
-        "Nama": "Fadhel Iqbal Hidayatullah"
-    },
-    {
-        "NRP": 5003231076,
-        "Nama": "Revalina Putri Nailah"
-    },
-    {
-        "NRP": 5003231208,
-        "Nama": "Nadiarista Yustiaputri"
-    },
-    {
-        "NRP": 5003231212,
-        "Nama": "Intan Nirwani"
-    },
-    {
-        "NRP": 5003231184,
-        "Nama": "Pingky Oktania Tata Sefina"
-    },
-    {
-        "NRP": 5003231140,
-        "Nama": "Andyka Nabil Putra"
-    },
-    {
-        "NRP": 5003231016,
-        "Nama": "Christopher Purwa Satria"
-    },
-    {
-        "NRP": 5003231015,
-        "Nama": "Aldenka Rifqi Ganendra Murti"
-    },
-    {
-        "NRP": 5003231203,
-        "Nama": "Roy Bintang Putra Widyatmoko"
-    },
-    {
-        "NRP": 5052231003,
-        "Nama": "Hieronimus Bryant Eiffel Christabelle"
-    },
-    {
-        "NRP": 5052231038,
-        "Nama": "Kiagus Arif Rahman"
-    },
-    {
-        "NRP": 5003231092,
-        "Nama": "Nurralia Rayhan Naifah"
-    },
-    {
-        "NRP": 5003231046,
-        "Nama": "Aisyah Alfisina Maulani"
-    },
-    {
-        "NRP": 5003231145,
-        "Nama": "Devi Salsabila Noorqamaridia"
-    },
-    {
-        "NRP": 5052231007,
-        "Nama": "Rafi Satrio Pratama"
-    },
-    {
-        "NRP": 5052231041,
-        "Nama": "Arya Avani Az Azhar"
-    },
-    {
-        "NRP": 5003231206,
-        "Nama": "Aditya Wahib Erlangga"
-    },
-    {
-        "NRP": 5003231180,
-        "Nama": "Shabila Cahyaning Adiyanti"
-    },
-    {
-        "NRP": 5003231141,
-        "Nama": "Alin Okdiyanti"
+        "Nama": "Danella Citra Aldarena",
+        "Accepted": true
     },
     {
         "NRP": 5003231004,
-        "Nama": "Achmad Khoirul Fajri Filardi"
+        "Nama": "Achmad Khoirul Fajri Filardi",
+        "Accepted": true
     },
     {
-        "NRP": 5003231011,
-        "Nama": "Nicholas Brian Ariella"
+        "NRP": 5003231005,
+        "Nama": "Nadine Zahirah Putri Widianti",
+        "Accepted": false
     },
     {
-        "NRP": 5003231156,
-        "Nama": "Fikrian Anlisto"
-    },
-    {
-        "NRP": 5052231018,
-        "Nama": "Rahardian Putra"
-    },
-    {
-        "NRP": 5003231165,
-        "Nama": "Rifi Aulia Rahman"
-    },
-    {
-        "NRP": 5003231198,
-        "Nama": "Nayara Deandra Nadine"
-    },
-    {
-        "NRP": 5003231174,
-        "Nama": "Fadhil Rahman Saputra"
-    },
-    {
-        "NRP": 5003231204,
-        "Nama": "Fedro Marchelo Butar Butar"
-    },
-    {
-        "NRP": 5003231194,
-        "Nama": "Muhamnad Irfan Kurniawan"
-    },
-    {
-        "NRP": 5003231161,
-        "Nama": "Ach. Prima Faizul Zuhri"
-    },
-    {
-        "NRP": 5003231083,
-        "Nama": "Happy Dwi Ramadhany Muhammad"
-    },
-    {
-        "NRP": 5003231065,
-        "Nama": "Tsabita Nur 'Atiyah"
-    },
-    {
-        "NRP": 5052231005,
-        "Nama": "Yendra Wijayanto"
+        "NRP": 5003231006,
+        "Nama": "Firda Amallia Trisnawati",
+        "Accepted": true
     },
     {
         "NRP": 5003231007,
-        "Nama": "Rochmat Pornomo Prasetya"
+        "Nama": "Rochmat Pornomo Prasetya",
+        "Accepted": true
     },
     {
-        "NRP": 5003231109,
-        "Nama": "Dea Kharisma Nuril Ba'is"
+        "NRP": 5003231008,
+        "Nama": "Rafidah Khoirun Nisa'",
+        "Accepted": false
     },
     {
-        "NRP": 5052231023,
-        "Nama": "Ericnaldy Kurniawan"
-    },
-    {
-        "NRP": 5052231032,
-        "Nama": "Fauzul Azim Gustiar"
-    },
-    {
-        "NRP": 5003231121,
-        "Nama": "Veronica Febriani Putri"
-    },
-    {
-        "NRP": 5003231175,
-        "Nama": "Vina Alfita Sari"
-    },
-    {
-        "NRP": 5003231176,
-        "Nama": "Raisha Annette Gultom"
-    },
-    {
-        "NRP": 5003231050,
-        "Nama": "Kartika Melati Putri Wahyu"
-    },
-    {
-        "NRP": 5003231160,
-        "Nama": "Dipta Mulya Pratama"
+        "NRP": 5003231009,
+        "Nama": "Aulia Rahmaeta Octaviani",
+        "Accepted": true
     },
     {
         "NRP": 5003231010,
-        "Nama": "Raden Ajeng Aninditha T. A"
+        "Nama": "Raden Ajeng Aninditha Tazkia Ariniputri",
+        "Accepted": true
     },
     {
-        "NRP": 5052231017,
-        "Nama": "Ahmad Fadad Muafi"
+        "NRP": 5003231011,
+        "Nama": "Nicholas Brian Ariella",
+        "Accepted": true
     },
     {
-        "NRP": 5003231082,
-        "Nama": "Khafid Alfian Saputra"
+        "NRP": 5003231012,
+        "Nama": "Andra Eka Wijayanti",
+        "Accepted": true
     },
     {
-        "NRP": 5003231132,
-        "Nama": "Azzahra Ayungga Sukma"
+        "NRP": 5003231014,
+        "Nama": "Narendra Arshya Karnowo",
+        "Accepted": true
     },
     {
-        "NRP": 5003231166,
-        "Nama": "Cikal Abyakta Hanif"
+        "NRP": 5003231015,
+        "Nama": "Aldenka Rifqi Ganendra Murti",
+        "Accepted": true
     },
     {
-        "NRP": 5003231190,
-        "Nama": "Nawal Zakhira Rahmalia"
+        "NRP": 5003231016,
+        "Nama": "Christopher Purwa Satria",
+        "Accepted": true
     },
     {
-        "NRP": 5003231183,
-        "Nama": "Dian Astralia Damayanti"
+        "NRP": 5003231017,
+        "Nama": "Ayu Nirwana Radika",
+        "Accepted": true
     },
     {
-        "NRP": 5003231196,
-        "Nama": "Azzahra Tabina Aramirta"
+        "NRP": 5003231019,
+        "Nama": "Widyana Nityasa Manda",
+        "Accepted": true
     },
     {
-        "NRP": 5003231211,
-        "Nama": "Muhamad Farchan Setyadi"
+        "NRP": 5003231020,
+        "Nama": "Natasha Virna Arthilita",
+        "Accepted": true
     },
     {
-        "NRP": 5003231126,
-        "Nama": "Nindya Eka Putri Ramadhani"
+        "NRP": 5003231021,
+        "Nama": "Violita Inggar Ariana",
+        "Accepted": true
     },
     {
-        "NRP": 5003231031,
-        "Nama": "Mohammad Imam Mahmudin"
+        "NRP": 5003231022,
+        "Nama": "Raisa Aulia Khoirun Nisa",
+        "Accepted": false
     },
     {
-        "NRP": 5003231113,
-        "Nama": "Inez Erianty"
+        "NRP": 5003231023,
+        "Nama": "Mazaya Aqila Adzraa",
+        "Accepted": true
     },
     {
-        "NRP": 5003231144,
-        "Nama": "Syahla Kemal Dementieva"
+        "NRP": 5003231024,
+        "Nama": "Camelia Cahya Masyithah",
+        "Accepted": false
     },
     {
-        "NRP": 5003231137,
-        "Nama": "M. Rakha Aryaguna"
+        "NRP": 5003231025,
+        "Nama": "Najwa Allena Eka Putri Santoso",
+        "Accepted": true
     },
     {
-        "NRP": 5003231068,
-        "Nama": "Auliya Nasywa Hafiyyanti"
+        "NRP": 5003231026,
+        "Nama": "Najwa Putri Lathifah",
+        "Accepted": true
     },
     {
-        "NRP": 5003231157,
-        "Nama": "Muhammad Hasan Abdullah"
+        "NRP": 5003231027,
+        "Nama": "Maria Immaculata Dyah Hita Widowati",
+        "Accepted": true
     },
     {
-        "NRP": 5003231072,
-        "Nama": "Delfyan Ageng Anggoro"
+        "NRP": 5003231028,
+        "Nama": "Raisa Dinar Izzati",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231029,
+        "Nama": "Clairina Belva Fairish",
+        "Accepted": false
     },
     {
         "NRP": 5003231030,
-        "Nama": "Mochamad Farid Hidayatullah"
+        "Nama": "Mochamad Farid Hidayatullah",
+        "Accepted": true
     },
     {
-        "NRP": 5003231124,
-        "Nama": "Moh. Nafri Rehanata"
+        "NRP": 5003231031,
+        "Nama": "Mohammad Imam Mahmudin",
+        "Accepted": true
     },
     {
-        "NRP": 5052231027,
-        "Nama": "Yizhar Bezaleel Yehuda Theodoris"
+        "NRP": 5003231032,
+        "Nama": "Jahidata Royyanida Mardani",
+        "Accepted": true
     },
     {
-        "NRP": 5003231169,
-        "Nama": "Muhammad Fadhlan Fadri"
+        "NRP": 5003231033,
+        "Nama": "Tesalonika Sharavova Hutagaol",
+        "Accepted": true
     },
     {
-        "NRP": 5003231123,
-        "Nama": "Mafaza Niswah Assyarifah"
+        "NRP": 5003231034,
+        "Nama": "Nuris Candra Ramadhani",
+        "Accepted": true
     },
     {
-        "NRP": 5052231021,
-        "Nama": "Regina Avril Putri Pribadi"
+        "NRP": 5003231035,
+        "Nama": "SETIYA ILMI MUBAROK",
+        "Accepted": true
     },
     {
-        "NRP": 5003231154,
-        "Nama": "Girindra Banyuaji"
+        "NRP": 5003231036,
+        "Nama": "Naqya Sakinah",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231037,
+        "Nama": "Najwa Laila Damayanti",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231038,
+        "Nama": "Adelia Tria Amanda",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231039,
+        "Nama": "Maulida Rachmah Nabila",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231040,
+        "Nama": "Nayya Safitri Ramadani",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231041,
+        "Nama": "Abellia Ayu Fernanda",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231042,
+        "Nama": "Asi Emilia Putri",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231043,
+        "Nama": "Maitreya Zahwa",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231045,
+        "Nama": "Abid Humam Rusydan",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231046,
+        "Nama": "Aisyah Alfisina Maulani",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231047,
+        "Nama": "Ike Maya Setya",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231048,
+        "Nama": "Maulida Rahmi",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231050,
+        "Nama": "Kartika Melati Putri Wahyu",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231053,
+        "Nama": "Fenantrenia Valeri Aliza",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231055,
+        "Nama": "Najwa Fadhilah",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231057,
+        "Nama": "Jeni Naomi Turnip",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231058,
+        "Nama": "Ganindra Muhammad Izzulhaq Bayhaqi",
+        "Accepted": true
     },
     {
         "NRP": 5003231059,
-        "Nama": "Rosyita Choirunisa"
+        "Nama": "Rosyita Choirunisa",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231061,
+        "Nama": "Irziqna Auliaurrachmah",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231062,
+        "Nama": "Ahmad Rizal Saputra",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231064,
+        "Nama": "Fendy Dwi Rahadi",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231065,
+        "Nama": "Tsabita Nur 'Atiyah",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231066,
+        "Nama": "Naifa Adila Balqis",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231067,
+        "Nama": "Ilham Ramadhani Imanulloh",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231068,
+        "Nama": "Auliya Nasywa Hafiyyanti",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231070,
+        "Nama": "Fathatia Cholida Syifa",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231071,
+        "Nama": "Multazam Zidan",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231072,
+        "Nama": "Delfyan Ageng Anggoro",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231073,
+        "Nama": "Nathania Rani Pujiati",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231074,
+        "Nama": "Isma Oktaviana",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231075,
+        "Nama": "Aditya Rasyiid Ariant",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231076,
+        "Nama": "Revalina Putri Nailah",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231077,
+        "Nama": "Abdurrahman Bayhaqi Choiri",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231078,
+        "Nama": "Suhanur Haliza",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231079,
+        "Nama": "Ali Zainal Abidin",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231081,
+        "Nama": "Diffa Fadhila",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231082,
+        "Nama": "Khafid Alfian Saputra",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231083,
+        "Nama": "Happy Dwi Ramadhany Muhammad",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231084,
+        "Nama": "Eren Lutfimorea",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231085,
+        "Nama": "Prayoga Permana Hakim",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231086,
+        "Nama": "Nurul Fadhila Yuni Setyawati",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231087,
+        "Nama": "Shafa Insan Kamillia Ashari",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231088,
+        "Nama": "Oryza Sativa",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231090,
+        "Nama": "Ananda Aqeela Salsabila",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231091,
+        "Nama": "Rochmad Budi Sampurna",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231092,
+        "Nama": "Nurralia Rayhan Naifah",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231093,
+        "Nama": "Dewa Putu Wisnu Sabdha Adi",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231095,
+        "Nama": "Putu Rendi Wira Darma",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231096,
+        "Nama": "Putu Calista Arthanti Dewi",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231097,
+        "Nama": "Fathi Akbar Firmansyah",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231098,
+        "Nama": "Razaki Andyatama Ken Onodera",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231100,
+        "Nama": "Taufina Dhiya Ulhaq Indrayana",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231101,
+        "Nama": "Dani Auliya Rahmat",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231102,
+        "Nama": "FERDIAN DHANINO RACHMAWAN",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231104,
+        "Nama": "Ara Dina Mumtaza",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231105,
+        "Nama": "Kresna Wijaya",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231106,
+        "Nama": "Umar Faisal",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231107,
+        "Nama": "Adinda Putri Novianti",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231108,
+        "Nama": "Zalfa Adhelia",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231109,
+        "Nama": "Dea Kharisma Nuril Ba'is",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231110,
+        "Nama": "Tabitha Madeline De Yong",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231111,
+        "Nama": "Khoirun Nisa",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231112,
+        "Nama": "Selvi Maulidyah",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231113,
+        "Nama": "Inez Erianty",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231114,
+        "Nama": "Jasmine Sabrina Rahmaira Saputra",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231115,
+        "Nama": "Fikri Ahmad Setyaji",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231116,
+        "Nama": "Gisella Maureenchika Rellyando",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231117,
+        "Nama": "Irfan lukman hakim",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231118,
+        "Nama": "Artera Dwi Septianingtyas",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231119,
+        "Nama": "M. Danu Haryoyudanto",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231120,
+        "Nama": "Michael Tannelson",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231121,
+        "Nama": "Veronica Febriani Putri",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231122,
+        "Nama": "Fahmadina Sophia",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231123,
+        "Nama": "Mafaza Niswah Assyarifah",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231124,
+        "Nama": "Moh. Nafri Rehanata",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231126,
+        "Nama": "NINDYA EKA PUTRI RAMADHANI",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231127,
+        "Nama": "RAFLI MAULANA",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231128,
+        "Nama": "Habilla Utama",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231129,
+        "Nama": "Ruth Wahyu Sedjati Priyambodo",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231130,
+        "Nama": "Aldi Muhammad Aryawan",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231131,
+        "Nama": "Victoria Nicole Vanesa",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231132,
+        "Nama": "Azzahra Ayungga Sukma",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231133,
+        "Nama": "Bagas Rakhawisesa",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231134,
+        "Nama": "Nafisa Rahma Taufiq",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231135,
+        "Nama": "Raffly Isya Ramadhan",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231136,
+        "Nama": "Bethari Cetta Mulia",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231137,
+        "Nama": "M. Rakha Aryaguna",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231139,
+        "Nama": "Farahiyah Akmaliya Anjani",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231140,
+        "Nama": "Andyka Nabil Putra",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231141,
+        "Nama": "Alin Okdiyanti",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231142,
+        "Nama": "Gita Damayanti",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231143,
+        "Nama": "Faiz Nabilianto",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231144,
+        "Nama": "Syahla Kemal Dementieva",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231145,
+        "Nama": "Devi Salsabila Noorqamaridia",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231146,
+        "Nama": "Winna Aisyah Ramadhani Pambudi",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231147,
+        "Nama": "Kayla Yasmine Hernanda Putri",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231148,
+        "Nama": "M. Kayyis Diya Ulhaq",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231149,
+        "Nama": "Rozma Zahwalya Rusdi",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231150,
+        "Nama": "Muhammad Ilham Firmansyah",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231151,
+        "Nama": "Juan Wistara Rogate Siregar",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231153,
+        "Nama": "Sendy Maureent Oktaviana Sonora",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231154,
+        "Nama": "Girindra Banyuaji",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231155,
+        "Nama": "Anastasia Adelia Evangeline",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231156,
+        "Nama": "FIKRIAN ANLISTO",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231157,
+        "Nama": "Muhammad Hasan Abdullah",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231159,
+        "Nama": "Muhammad Rafli Rismawan",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231160,
+        "Nama": "Dipta Mulya Pratama",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231161,
+        "Nama": "Ach. Prima Faizul Zuhri",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231162,
+        "Nama": "Iqlima Farhah Chairuzzady",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231164,
+        "Nama": "Atika Mumtaza",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231165,
+        "Nama": "Rifi Aulia Rahman",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231166,
+        "Nama": "Cikal Abyakta Hanif",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231167,
+        "Nama": "Talitha Vania Ramadhani",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231168,
+        "Nama": "Diena Eka Justitia",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231169,
+        "Nama": "Muhammad Fadhlan Fadri",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231170,
+        "Nama": "Rana Safira Sudjarwo",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231171,
+        "Nama": "Diazty Ifta Padvani",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231172,
+        "Nama": "Ilham Candra Harmawan",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231173,
+        "Nama": "Nadia Rizki Permatasari",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231174,
+        "Nama": "Fadhil Rahman Saputra",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231175,
+        "Nama": "Vina Alfita Sari",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231176,
+        "Nama": "Raisha Annette Gultom",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231177,
+        "Nama": "Arsyilia Dwinindi Adyar",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231178,
+        "Nama": "Septina Kusumawati",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231179,
+        "Nama": "melody fithrah riyonoputri",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231180,
+        "Nama": "Shabila Cahyaning Adiyanti",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231182,
+        "Nama": "Tatia Widya Ningrum",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231183,
+        "Nama": "Dian Astralia Damayanti",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231184,
+        "Nama": "PINGKY OKTANIA TATA SEFINA",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231185,
+        "Nama": "Fitriya Hana Purnomo",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231186,
+        "Nama": "Khairunnisa Cahya Nagari",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231188,
+        "Nama": "Rahmadania Tiara Jasmine",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231189,
+        "Nama": "Muhammad Al Fatih Nafiudin Sya'bani",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231190,
+        "Nama": "Nawal Zakhira Rahmalia",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231191,
+        "Nama": "Zumrotus Solicha",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231192,
+        "Nama": "Dhafa Azzahra Putri",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231193,
+        "Nama": "Danu Hadi Pratama",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231194,
+        "Nama": "Muhamnad Irfan Kurniawan",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231194,
+        "Nama": "Muhammad Irfan Kurniawan",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231195,
+        "Nama": "Dandy Harsa Fathoni",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231196,
+        "Nama": "Azzahra Tabina Aramirta",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231198,
+        "Nama": "Nayara Deandra Nadine",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231199,
+        "Nama": "Akhdan Surya Khairizza",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231200,
+        "Nama": "Ikhsan Hafizh Nirwasita",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231202,
+        "Nama": "Najwa Azzura Kamila",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231203,
+        "Nama": "Roy Bintang Putra Widyatmoko",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231204,
+        "Nama": "Fedro Marchelo Butar Butar",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231205,
+        "Nama": "Auralya Putri Jasmine Wirawan",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231206,
+        "Nama": "Aditya Wahib Erlangga",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231208,
+        "Nama": "Nadiarista Yustiaputri",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231209,
+        "Nama": "Naufal Mahdy Nashrullah",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231210,
+        "Nama": "Dhea Ary Shofyan",
+        "Accepted": false
+    },
+    {
+        "NRP": 5003231211,
+        "Nama": "Muhamad Farchan Setyadi",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003231212,
+        "Nama": "Intan Nirwani",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003232051,
+        "Nama": "Hafizd Ahmad Naufal",
+        "Accepted": false
+    },
+    {
+        "NRP": 5052231001,
+        "Nama": "Mohamad Azra Muntaha",
+        "Accepted": false
+    },
+    {
+        "NRP": 5052231002,
+        "Nama": "Muhammad Farras Aryafyandhana",
+        "Accepted": false
+    },
+    {
+        "NRP": 5052231003,
+        "Nama": "Hieronimus Bryant Eiffel Christabelle",
+        "Accepted": true
+    },
+    {
+        "NRP": 5052231005,
+        "Nama": "Yendra Wijayanto",
+        "Accepted": true
+    },
+    {
+        "NRP": 5052231006,
+        "Nama": "Keira Myeisharinna",
+        "Accepted": true
+    },
+    {
+        "NRP": 5052231007,
+        "Nama": "Rafi Satrio Pratama",
+        "Accepted": true
+    },
+    {
+        "NRP": 5052231008,
+        "Nama": "Abdila Putra Samudra",
+        "Accepted": true
+    },
+    {
+        "NRP": 5052231009,
+        "Nama": "Fadhel Iqbal Hidayatullah",
+        "Accepted": true
+    },
+    {
+        "NRP": 5052231012,
+        "Nama": "Nandana Bahaghani Samiyuga",
+        "Accepted": false
+    },
+    {
+        "NRP": 5052231013,
+        "Nama": "Faiz Aydin Zayan",
+        "Accepted": false
+    },
+    {
+        "NRP": 5052231014,
+        "Nama": "Khansa Amelia Atria Andiyani",
+        "Accepted": false
+    },
+    {
+        "NRP": 5052231015,
+        "Nama": "Nadine Amalia Ghassani",
+        "Accepted": false
+    },
+    {
+        "NRP": 5052231016,
+        "Nama": "Quinn Maxine Lee",
+        "Accepted": true
+    },
+    {
+        "NRP": 5052231017,
+        "Nama": "Ahmad Fadad Muafi",
+        "Accepted": true
+    },
+    {
+        "NRP": 5052231018,
+        "Nama": "Rahardian Putra",
+        "Accepted": true
+    },
+    {
+        "NRP": 5052231019,
+        "Nama": "Gregorio Vianney Putra",
+        "Accepted": false
+    },
+    {
+        "NRP": 5052231020,
+        "Nama": "Althaf Syakir Maulana",
+        "Accepted": false
+    },
+    {
+        "NRP": 5052231021,
+        "Nama": "Regina Avril Putri Pribadi",
+        "Accepted": true
+    },
+    {
+        "NRP": 5052231022,
+        "Nama": "Dimas Wahyu Saputra",
+        "Accepted": true
+    },
+    {
+        "NRP": 5052231023,
+        "Nama": "Ericnaldy Kurniawan",
+        "Accepted": true
+    },
+    {
+        "NRP": 5052231024,
+        "Nama": "Danish Rafie Ekaputra",
+        "Accepted": false
+    },
+    {
+        "NRP": 5052231027,
+        "Nama": "Yizhar Bezaleel Yehuda Theodoris",
+        "Accepted": true
+    },
+    {
+        "NRP": 5052231028,
+        "Nama": "Ghalib Ibrahim Zardy",
+        "Accepted": false
+    },
+    {
+        "NRP": 5052231030,
+        "Nama": "Nisrina Giska Kamila",
+        "Accepted": true
+    },
+    {
+        "NRP": 5052231032,
+        "Nama": "Fauzul Azim Gustiar",
+        "Accepted": true
+    },
+    {
+        "NRP": 5052231033,
+        "Nama": "Kasih Kristanti Novianto",
+        "Accepted": true
+    },
+    {
+        "NRP": 5052231034,
+        "Nama": "Akmal Sharif Ramdhan",
+        "Accepted": false
+    },
+    {
+        "NRP": 5052231036,
+        "Nama": "Iqdam Shidqi",
+        "Accepted": false
+    },
+    {
+        "NRP": 5052231037,
+        "Nama": "Putri Amalia Farhana",
+        "Accepted": false
+    },
+    {
+        "NRP": 5052231038,
+        "Nama": "Kiagus Arif Rahman",
+        "Accepted": true
+    },
+    {
+        "NRP": 5052231039,
+        "Nama": "Zanna Quinsa Haswana Dinda",
+        "Accepted": true
+    },
+    {
+        "NRP": 5052231041,
+        "Nama": "Arya Avani Az Azhar",
+        "Accepted": true
     }
 ]

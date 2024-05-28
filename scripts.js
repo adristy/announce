@@ -32,27 +32,32 @@ document.addEventListener('DOMContentLoaded', () => {
         textInShape.style.display = 'none'; // Menghilangkan textinshape
 
         if (student) {
-            resultDiv.innerHTML = `
-                <h3>Hello, ${student.Nama}! Welcome to our team!</h3>
-                <p> We are glad to let you know that <strong class="approve"> you are accepted as PRS 2024’s Crew! </strong> </p>
-                <p> Congratulations to you! You did well in showing your potential! 
-                <br> <br>Oh- we will reach you out in no time regarding your verification, 
-                so please check your email regularly – both inbox and spam.
+            if (student.Accepted === true) {
+                resultDiv.innerHTML = `
+                    <h3>Hello, ${student.Nama}! Welcome to our team!</h3>
+                    <p> We are glad to let you know that <strong class="approve"> you are accepted as PRS 2024’s Crew! </strong> </p>
+                    <p> Congratulations to you! You did well in showing your potential! 
+                    <br> <br>Oh- we will reach you out in no time regarding your verification, 
+                    so please check your email regularly – both inbox and spam.
 
-                <br> <br> See you soon!
-                 </p>
-            `;
-            resultDiv.style.color = '';
+                    <br> <br> See you soon!
+                     </p>
+                `;
+                resultDiv.style.color = '';
+            } else {
+                resultDiv.innerHTML = `
+                    <h3>Hello, ${student.Nama}!</h3>
+                    <p> We are sorry to say that <strong style="color: red;"> you are unfortunately not eligible for the position.</strong></p>
+                    <p>But don't be afraid, you still have many opportunities to show your potential out there! 
+                    There are several events that are waiting for you. Keep your head up! You still have a long 
+                    way to go and may we meet in different circumstances.</p>
+                    
+                    <p>See you at another time!</p>
+                `;
+                resultDiv.style.color = '';
+            }
         } else {
-            resultDiv.innerHTML = `
-                <h3> We are sorry to say that <strong style="color: red;"> you are unfortunately not eligible for the position.</strong></h3>
-                <p>But don't be afraid, you still have many opportunities to show your potential out there! 
-                There are several events that are waiting for you. Keep your head up! You still have a long 
-                way to go and may we meet in different circumstances.</p>
-                
-                <p>See you at another time!</p>
-            `;
-            resultDiv.style.color = '';
+            resultDiv.innerHTML = '<h3 style="color: red;">You did not register yourself for the Open Recruitment of PRS 2024 Staff</h3>';
         }
     });
 });
