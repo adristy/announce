@@ -57,7 +57,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 resultDiv.style.color = '';
             }
         } else {
-            resultDiv.innerHTML = '<h3 style="color: red;">You did not register yourself for the Open Recruitment of PRS 2024 Staff</h3>';
-        }
+            resultDiv.innerHTML = `
+            <h2>Oh, Hi?</h2>
+
+            <p>Your NRP is <strong style="color: red;">invalid</strong>. Are you somehow mistaken when inputting the NRP? 
+            Or did you not apply for any position we are currently open for?</p>
+            
+            <p>If you have already applied but are still finding your NRP invalid, please reach us at 
+            <a href="mailto:pekanrayastatistikaits@gmail.com">pekanrayastatistikaits@gmail.com</a> or tell your trouble to any <strong>Executives</strong> you know.</p>
+        `}
     });
 });
