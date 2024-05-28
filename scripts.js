@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <p> We are glad to let you know that <strong class="approve"> you are accepted as PRS 2024’s Crew! </strong> </p>
                     <p> Congratulations to you! You did well in showing your potential! 
                     <br> <br>Oh- we will reach you out in no time regarding your verification, 
-                    so please check your email regularly – both inbox and spam.
+                    <strong>so please check your email regularly – both inbox and spam.</strong>
 
                     <br> <br> See you soon!
                      </p>
