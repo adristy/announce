@@ -1093,5 +1093,15 @@
         "NRP": 5052231041,
         "Nama": "Arya Avani Az Azhar",
         "Accepted": true
+    },
+    {
+        "NRP": 5003221086,
+        "Nama": "Fairy",
+        "Accepted": true
+    },
+    {
+        "NRP": 5003221156,
+        "Nama": "Nisa",
+        "Accepted": false
     }
 ]
